@@ -1,0 +1,12 @@
+
+# ignore output directory
+out/
+build/
+
+# ignore Visual Studio specific files
+.vs/
+.vscode/
+
+# Cmake temp file
+CMakeSettings.json
+CMakeFiles/
